@@ -7,9 +7,9 @@ Programado en <b>PROLOG</b> (SWI-Prolog).
 
 <br>
 
-*Para obtener la posición y datos de cada casa, consultar*: <b>solucion(S)</b>.
+> *Para obtener la posición y datos de cada casa, consultar*: <b>solucion(S)</b>.
 
-*Para directamente saber de quién es el pececito, consultar*: <b>solucionTotal(S)</b>.
+> *Para directamente saber de quién es el pececito, consultar*: <b>solucionTotal(S)</b>.
 
 <br>
 
